@@ -1,0 +1,6 @@
+C:\Users\Giecom\Desktop\Yuddy\WS\Parcial_IA\Parcial_IA\bin\Debug\Parcial_IA.exe.config
+C:\Users\Giecom\Desktop\Yuddy\WS\Parcial_IA\Parcial_IA\bin\Debug\Parcial_IA.exe
+C:\Users\Giecom\Desktop\Yuddy\WS\Parcial_IA\Parcial_IA\bin\Debug\Parcial_IA.pdb
+C:\Users\Giecom\Desktop\Yuddy\WS\Parcial_IA\Parcial_IA\obj\Debug\Parcial_IA.csprojResolveAssemblyReference.cache
+C:\Users\Giecom\Desktop\Yuddy\WS\Parcial_IA\Parcial_IA\obj\Debug\Parcial_IA.exe
+C:\Users\Giecom\Desktop\Yuddy\WS\Parcial_IA\Parcial_IA\obj\Debug\Parcial_IA.pdb
