@@ -11,12 +11,12 @@ namespace Parcial_IA
 
         static void Main(string[] args)
         {
-            int Fac_Cruce=0;
+            int Fac_Cruce;
             do
             {
                 try
                 {
-                    Console.WriteLine("Ingresar el porcentaje del cruce");
+                    Console.WriteLine("Ingresar el porcentaje del cruce 0 a 100");
                     Fac_Cruce = Convert.ToInt32(Console.ReadLine());
                 }
                 catch
@@ -26,8 +26,17 @@ namespace Parcial_IA
                 }
             } while (Fac_Cruce<0||Fac_Cruce>100);
 
+            //Console.WriteLine(new AlgoritmoEvolutivo().BinToDec("111111"));
             
-            //AlgoritmoEvolutivo Evl = new AlgoritmoEvolutivo(Fac_Cruce/100);
+            AlgoritmoEvolutivo Evl = new AlgoritmoEvolutivo(Fac_Cruce);
+            Evl.Evolucionador();
+            for (int i = 0; i < Evl.Genotipo.Length; i++)
+            {
+                for (int j = 0; j < Evl.Genotipo.LongLength; j++)
+                {
+                }
+            }
+           
             Console.ReadKey();
         }
 
