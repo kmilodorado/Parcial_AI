@@ -30,13 +30,6 @@ namespace Parcial_IA
             
             AlgoritmoEvolutivo Evl = new AlgoritmoEvolutivo(Fac_Cruce);
             Evl.Evolucionador();
-            for (int i = 0; i < Evl.Genotipo.Length; i++)
-            {
-                for (int j = 0; j < Evl.Genotipo.LongLength; j++)
-                {
-                }
-            }
-           
             Console.ReadKey();
         }
 
